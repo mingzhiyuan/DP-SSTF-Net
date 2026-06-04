@@ -27,8 +27,5 @@
 ## Usage
 - Import the model and call it with an input tensor: instantiate `DP_SSTFNet(...)` and run `model(x)`.
 
-## Notes
-- The README is intentionally brief; see the source file `DP-SSTFNet.py` for implementation details.
-
 
 Code will be uploaded when paper is accepted. 
